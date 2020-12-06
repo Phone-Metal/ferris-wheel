@@ -20,12 +20,15 @@ class Cabin {
   }
 
   render() {
-    stroke(this.c);
-    strokeWeight(this.r / 250);
     push();
     translate(this.x, this.y);
     rotate(this.a);
     // the line that the cabin is attached to;
+    noStroke();
+    fill(this.c);
+    circle(0, 0, this.r / 65);
+    stroke(this.c);
+    strokeWeight(this.r / 250);
     line(0, 0, 0, this.cl);
     fill(bg);
     noStroke();
