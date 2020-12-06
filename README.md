@@ -3,7 +3,7 @@
 
 <img src="./assets/sample.png">
 
-### play and interact with it on OpenProcessing: <a href="https://www.openprocessing.org/sketch/1034456">Ferris Wheel</a>
+### Play and interact with it on OpenProcessing: <a href="https://www.openprocessing.org/sketch/1034456">Ferris Wheel</a>
 
 #### This is created using the **p5js** JavaScript library.   
 #### Feel free to do whatever you want with it.
